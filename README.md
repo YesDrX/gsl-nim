@@ -3,6 +3,7 @@
 * [GSL Home Page](https://www.gnu.org/software/gsl/)
 * [GSL Github](https://github.com/ampl/gsl)
 * [GSL Doc](https://www.gnu.org/software/gsl/doc/html/)
+* [Header files](https://github.com/YesDrX/gsl-nim/tree/main/include/gsl)
 
 # Install
 * 1. install GNU GSL library
