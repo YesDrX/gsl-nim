@@ -37,7 +37,7 @@
 # Sample code
   [samples](https://github.com/YesDrX/gsl-nim/tree/main/sample)
   
-  * example 
+  * example : solve for root of a 5th order polynomial equation
   ```nim
 import gsl/gsl_poly
 import strformat
