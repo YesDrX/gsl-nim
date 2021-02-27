@@ -37,6 +37,7 @@
   ```
 # Sample code & Test code
   [samples](https://github.com/YesDrX/gsl-nim/tree/main/sample)
+  
   [tests](https://github.com/YesDrX/gsl-nim/tree/main/test)
   
   * example : solve for root of a 5th order polynomial equation
