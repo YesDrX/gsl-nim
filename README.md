@@ -35,6 +35,10 @@
   cd gsl-nim
   nimble install
   ```
+  or
+  ```
+  nimble install gsl
+  ```
 # Sample code & Test code
   [samples](https://github.com/YesDrX/gsl-nim/tree/main/sample)
   
