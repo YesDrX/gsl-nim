@@ -1,4 +1,4 @@
-import gsl-nim/gsl_statistics
+import gsl/gsl_statistics
 import strformat
 
 var
