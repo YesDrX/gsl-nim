@@ -1,4 +1,4 @@
- {.deadCodeElim: on.}
+{.deadCodeElim: on.}
 when defined(windows):
   const
     libgsl* = "gsl.dll"
